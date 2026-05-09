@@ -766,6 +766,7 @@ var cnames_active = {
   "datenel": "astrian.github.io/datenel-doc",
   "dativejs": "dativejs.github.io",
   "davet": "egecelikci.github.io/davet",
+  "davfinder": "davfinder.pages.dev",
   "dawn": "dawnelixir.github.io/dawn.js.org",
   "dawood": "mohamedawood.github.io/Dawood",
   "day": "dayjs.github.io/website",
