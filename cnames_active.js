@@ -2841,7 +2841,7 @@ var cnames_active = {
   "riffy": "cname.vercel-dns.com", // noCF
   "riiickyy": "riiickyy.github.io",
   "riklewis": "riklewis.github.io",
-  "rimmel": "hellomenu.github.io/rimmel",
+  "rimmel": "rimmel-js-org.pages.dev",
   "ringo": "cname.vercel-dns.com", // noCF
   "rinzler": "gitsquared.github.io/rinzler",
   "riot": "riot.github.io",
