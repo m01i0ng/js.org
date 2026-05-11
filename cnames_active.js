@@ -105,7 +105,6 @@ var cnames_active = {
   "aditya": "aditya81070.github.io",
   "adnanbabakan": "adnanbabakan.github.io",
   "adon988": "adon988.github.io",
-  "toonkit": "manojgowda89.github.io/toonkit",
   "adv": "advjs.github.io",
   "advancedrpc": "advancedrpc.github.io",
   "aerogel": "noeldemartin.github.io/aerogel",
@@ -3397,6 +3396,7 @@ var cnames_active = {
   "toolost": "toolost-docs.netlify.app", // noCF
   "tools-kit": "blackb1rd-development.github.io/tools-kit",
   "toolzar": "toolzar.netlify.app",
+  "toonkit": "manojgowda89.github.io/toonkit",
   "topbot": "resign05.github.io/TobWebsite",
   "topgg": "topgg-node-sdk-docs.netlify.app",
   "tori": "boostcode.github.io/torijs",
