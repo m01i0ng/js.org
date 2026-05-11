@@ -110,7 +110,7 @@ var cnames_active = {
   "aerogel": "noeldemartin.github.io/aerogel",
   "aesthetic": "esthetic-docs.netlify.app",
   "affiliate": "russellsteadman.github.io/affiliate",
-  "affinityhub": "s1m0np1.github.io/affinityhub",
+  "affinityhub": "s1m0np1.github.io/affinity-script-installer",
   "afilters": "dmytrohoi.github.io/afilters.js",
   "afmsavage": "afmsavage.github.io",
   "afterwind": "eedrxs.github.io/afterwind",
