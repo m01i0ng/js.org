@@ -3351,6 +3351,7 @@ var cnames_active = {
   "tgind": "panditsiddharth.github.io/tginddoc",
   "tgsnake": "cname.vercel-dns.com", // noCF
   "tgx-core": "tgx-core.github.io/website",
+  "thai-qr-payment": "uunw.github.io/thai-qr-payment",
   "thea": "idokutela.github.io/thea",
   "thegrid": "antoniandre.github.io/grid",
   "thema": "themakit.github.io",
